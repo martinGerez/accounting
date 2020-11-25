@@ -1,0 +1,1 @@
+Accounting::MIGRATION_BASE_CLASS = ActiveRecord::Migration[6.0]
